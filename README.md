@@ -1,2 +1,2 @@
 # Klefi
-Password encrypter.
+Criptografador de senhas utilizando hash.
